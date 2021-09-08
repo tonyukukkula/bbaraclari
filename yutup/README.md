@@ -101,3 +101,6 @@ Sanırım Türkiyenin en büyük DIY kanalı, videoları hızlı, açıklayıcı
 
 ## [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A)
 Bu hintli hacı abimizin kanalı tamamen yapay zeka ve robotik yani otonom varlıklar üzerine, gene Teknofest İHA yarışması için incelenmesi son derece faydalı olacaktır.
+
+## [at0m](https://www.youtube.com/c/at0mdev)
+at0m abimiz bir oyun geliştiricisi, oyun geliştirme serüveninden erken koptuğum için kendisini geç keşfettim sanırım. İnternetteki Türkçe içeriğe oyun geliştirme üzerine katkılarından dolayı tebrik edilesi bir beyefendi.
